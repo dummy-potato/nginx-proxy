@@ -1,0 +1,13 @@
+.env
+acme/*
+!acme/.gitkeep
+certs/*
+!certs/.gitkeep
+conf/*
+!conf/.gitkeep
+dhparam/*
+!dhparam/.gitkeep
+html/*
+!html/.gitkeep
+vhost/*
+!vhost/.gitkeep
